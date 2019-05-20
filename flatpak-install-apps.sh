@@ -16,4 +16,5 @@ flatpak install -y flathub org.keepassxc.KeePassXC \
   com.slack.Slack \
   com.uploadedlobster.peek \
   org.gnome.Gnote \
-  org.fedoraproject.MediaWriter
+  org.fedoraproject.MediaWriter \
+  com.bluejeans.BlueJeans 
