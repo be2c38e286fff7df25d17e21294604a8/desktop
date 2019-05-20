@@ -17,4 +17,5 @@ flatpak install -y flathub org.keepassxc.KeePassXC \
   com.uploadedlobster.peek \
   org.gnome.Gnote \
   org.fedoraproject.MediaWriter \
-  com.bluejeans.BlueJeans 
+  com.bluejeans.BlueJeans \
+  us.zoom.Zoom
