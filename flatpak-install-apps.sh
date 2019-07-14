@@ -19,4 +19,5 @@ flatpak install -y flathub org.keepassxc.KeePassXC \
   org.fedoraproject.MediaWriter \
   com.bluejeans.BlueJeans \
   us.zoom.Zoom \
-  com.wps.Office
+  com.wps.Office \
+  com.github.johnfactotum.Foliate
