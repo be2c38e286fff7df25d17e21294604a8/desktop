@@ -7,7 +7,6 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
   # FlatPak Applications (Flathub apps)
 flatpak install -y flathub org.keepassxc.KeePassXC \
-  com.dropbox.Client \
   org.gnome.meld \
   com.getpostman.Postman \
   org.telegram.desktop \
@@ -21,4 +20,6 @@ flatpak install -y flathub org.keepassxc.KeePassXC \
   us.zoom.Zoom \
   com.wps.Office \
   com.github.johnfactotum.Foliate \
-  com.jgraph.drawio.desktop
+  com.jgraph.drawio.desktop \
+  com.github.geigi.cozy \
+  com.microsoft.Teams
